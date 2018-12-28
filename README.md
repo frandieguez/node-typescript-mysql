@@ -1,6 +1,6 @@
 # Node lab application based on typescript + Express + MySQL
-[![Maintainability](https://api.codeclimate.com/v1/badges/534b7dc52af7d2bee6da/maintainability)](https://codeclimate.com/github/frandieguez/node-rest-api/maintainability)
-[![dependencies Status](https://david-dm.org/frandieguez/node-rest-api/status.svg)](https://david-dm.org/frandieguez/node-rest-api)  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Maintainability](https://api.codeclimate.com/v1/badges/534b7dc52af7d2bee6da/maintainability)](https://codeclimate.com/github/frandieguez/node-typescript-mysql/maintainability)
+[![dependencies Status](https://david-dm.org/frandieguez/node-typescript-mysql/status.svg)](https://david-dm.org/frandieguez/node-typescript-mysql)  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 This projects its just an example of creating a node.js application, take it as a lab project, nothing fancy.
 
